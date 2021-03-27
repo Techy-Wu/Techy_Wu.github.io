@@ -1,8 +1,8 @@
 # Site settings
-title: Me
+title: Techy Wu
 description: 'College Developer'
-url: ''
-baseurl: ''
+url: '/'
+baseurl: '/'
 profilepic: '/images/tzuehlke.jpg'
 bkimage: '/images/bk1.jpg'
 google_analytics: 
